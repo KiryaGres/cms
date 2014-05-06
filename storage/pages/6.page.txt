@@ -1,0 +1,3 @@
+&lt;p&gt;&lt;strong&gt;О нас&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;{maps}&lt;/p&gt;

@@ -3,7 +3,7 @@
 &lt;p&gt;Welcome to your new Monstra powered website.&lt;br /&gt;
 Monstra is succesfully installed, you can start editing the content and customising your site.&lt;/p&gt;
 
-&lt;span style=&quot;font-family:sans-serif,arial,verdana,trebuchet ms&quot;&gt;Getting Started&lt;/span&gt;
+&lt;p&gt;&lt;span style=&quot;font-family:sans-serif,arial,verdana,trebuchet ms&quot;&gt;Getting Started&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;This is a default home page of your website.&lt;br /&gt;
 Here&amp;#39;s a quick description of how to edit this page:&lt;/p&gt;

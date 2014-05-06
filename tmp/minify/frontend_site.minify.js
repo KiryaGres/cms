@@ -2406,7 +2406,8 @@ return(!i||i!==r&&!b.contains(r,i))&&(e.type=o.origType,n=o.handler.apply(this,a
 $(function(){
 	$('.sf-menu').superfish({speed:'fast'});
 	$('.pro_menu').superfish({speed:'fast'});
-})function reviewsAdd(f) {
+});
+function reviewsAdd(f) {
     var submitButton = $(f).find('input:submit').first();
     var textButton = submitButton.val();
     

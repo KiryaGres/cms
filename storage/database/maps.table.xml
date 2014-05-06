@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root><options><autoincrement>1</autoincrement></options><fields><address/><phones/><lat/><lon/></fields><maps><id>1</id><uid>80d512d1f9</uid><address>Алматы, Макатаева 117a</address><phones>87071868881</phones><lat>76.927238</lat><lon>43.263783</lon></maps></root>
+<root><options><autoincrement>2</autoincrement></options><fields><address/><phones/><lat/><lon/></fields><maps><id>2</id><uid>d60974aa65</uid><address>Алматы, Макатаева, 117A</address><phones>+77071868881</phones><lat>76.927238</lat><lon>43.263783</lon></maps></root>

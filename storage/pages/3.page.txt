@@ -1,4 +1,0 @@
-&lt;p&gt;Наши контакты&lt;/p&gt;
-
-&lt;pre&gt;
-{maps}&lt;/pre&gt;

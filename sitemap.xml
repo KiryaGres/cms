@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>http://monstra.dev/demo</loc>
+		<lastmod>2014-05-06</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>http://monstra.dev/demo/demo1</loc>
+		<lastmod>2014-05-06</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://monstra.dev/demo/demo2</loc>
+		<lastmod>2014-05-06</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>http://monstra.dev/</loc>
 		<lastmod>2012-04-02</lastmod>
 		<changefreq>weekly</changefreq>
@@ -11,18 +29,6 @@
 		<lastmod>2014-05-06</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>1.0</priority>
-	</url>
-	<url>
-		<loc>http://monstra.dev/contacts/demo</loc>
-		<lastmod>2014-05-06</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>http://monstra.dev/contacts/demo2</loc>
-		<lastmod>2014-05-06</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>http://monstra.dev/users</loc>
