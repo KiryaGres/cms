@@ -2,17 +2,21 @@
 
     return array(
         'menu' => array(
-            'Menu' => 'Menu',
+            'Menu' => 'Menu',        
             'Menu manager' => 'Menu manager',
             'Edit' => 'Edit',
             'Name' => 'Name',
+            'Branch' => 'Branch',
+            'Description' => 'Description',
             'Delete' => 'Delete',
             'Order' => 'Order',
             'Actions' => 'Actions',
-            'Create New Item' => 'Create new item',
+            'Create new item' => 'Create new item',
             'New item' => 'New item',
             'Item name' => 'Item name',
+            'Item description' => 'Item description',
             'Item order' => 'Item order',
+            'Item branch' => 'Item branch',
             'Item target' => 'Item target',
             'Item link' => 'Item link',
             'Item category' => 'Item category',

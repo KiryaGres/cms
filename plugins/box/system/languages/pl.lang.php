@@ -76,6 +76,5 @@
             'Main .htaccess file not writable' => 'Główny plik .htaccess nie ma możliwości zapisu',
             'Official Support Forum' => 'Wsparcie oficjalnego forum',
             'Documentation' => 'Dokumentacja',
-            'Your changes have been saved.' => 'Twoje zmiany zostały zapisane.',
         )
     );

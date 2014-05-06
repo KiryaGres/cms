@@ -1,0 +1,3 @@
+&lt;h2&gt;&lt;span style=&quot;color:#FF0000&quot;&gt;404 Page Not Found&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;We&amp;#39;re sorry but the page you are looking for doesn&amp;#39;t appear to exist!&lt;/p&gt;

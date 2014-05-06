@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root><options><autoincrement>1</autoincrement></options><fields><login/><password/><email/><role/><date_registered/><firstname/><lastname/><login/><twitter/><skype/><hash/><about_me/></fields><users><id>1</id><uid>1f0bb4f7f0</uid><firstname/><lastname/><twitter/><skype/><about_me/><login>Admin</login><password>93413a3c830255d457a68adef7ccc732</password><email>kirya.afimin@pochta.ru</email><hash>y0NGWDjpFR8O</hash><date_registered>1399317046</date_registered><role>admin</role></users></root>

@@ -85,21 +85,7 @@
                         <?php Navigation::draw('system'); ?>
                     </ul>
                     <div class="monstra-menu-category-separator"></div>
-<h3>Место на диске</h3>
-<?php
-$hdd_free = disk_free_space(ROOT)/1024/1024;
-$hdd_total = disk_total_space(ROOT)/1024/1024;
-$hdd_used = $hdd_total - $hdd_free;
-$hdd_used_per = 100*$hdd_used/$hdd_total;
-?>
-<div class="clearfix">
-    <small><i class="icon-hdd"></i> <?=number_format($hdd_used, 0)?> / <?=number_format($hdd_total, 0)?> MB <div class="pull-right"><b><?=number_format($hdd_used_per, 1)?>%</b></div></small>
-</div>
-<div class="progress progress-striped" style="height:7px;">
-    <div class="bar" style="width:<?=floor($hdd_used_per)?>%"></div>
-</div>
                 </div>
-
             </div>
             <!-- /Block_sidebar -->
 

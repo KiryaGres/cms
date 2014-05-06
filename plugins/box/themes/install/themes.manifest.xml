@@ -6,5 +6,6 @@
     <plugin_name>Themes</plugin_name>
     <plugin_description>Themes managment plugin</plugin_description>
     <plugin_version>1.0.0</plugin_version>
-    <plugin_author>Go1d</plugin_author>
+    <plugin_author>Awilum</plugin_author>
+    <plugin_author_uri>http://monstra.org/</plugin_author_uri>
 </root>

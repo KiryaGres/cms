@@ -1,4 +1,4 @@
-<!--<div class="row-fluid">
+<div class="row-fluid">
 
     <div class="span6">
 
@@ -6,7 +6,7 @@
         <br />
 
         <!-- Themes_selector -->
-        <!--<?php
+        <?php
             echo (
                 Form::open().
                 Form::hidden('csrf', Security::token()).
@@ -18,7 +18,7 @@
         ?>
         <!-- /Themes_selector -->
 
-    <!--</div>
+    </div>
 
     <div class="span6">
 
@@ -26,7 +26,7 @@
         <br />
 
         <!-- Themes_selector -->
-        <!--<?php
+        <?php
             echo (
                 Form::open().
                 Form::hidden('csrf', Security::token()).
@@ -38,20 +38,21 @@
         ?>
         <!-- /Themes_selector -->
 
-   <!-- </div>
+    </div>
 
 </div>
 
-<hr>-->
+<hr>
 
 <div class="row-fluid">
 
     <div class="span12">
-<!--<?php
+
+<?php
     echo (
         Html::heading(__('Current Site Theme', 'themes') . ': '. $current_site_theme, 2). Html::br()
     );
-?>-->
+?>
 
 <?php echo (Html::anchor(__('Create New Template', 'themes'), 'index.php?id=themes&action=add_template', array('title' => __('Create New Template'), 'class' => 'btn btn-small')).Html::br(2)); ?>
 

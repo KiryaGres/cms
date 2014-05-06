@@ -1,0 +1,1 @@
+[05-May-2014 21:13:08] RuntimeException: View::__construct(): The 'box/users/views/frontend/index' view does not exist. in C:\OpenServer\domains\monstra.dev\engine\Plugin\View.php at line 80

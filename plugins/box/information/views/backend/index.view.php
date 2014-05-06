@@ -22,6 +22,10 @@
                 </thead>
                 <tbody>
                     <tr>
+                        <td><?php echo __('Monstra version', 'information'); ?></td>
+                        <td><?php echo Monstra::VERSION; ?></td>
+                    </tr>
+                    <tr>
                         <td><?php echo __('GZIP', 'information'); ?></td>
                         <td><?php if (MONSTRA_GZIP) { echo __('on', 'information'); } else { echo __('off', 'information'); } ?></td>
                     </tr>

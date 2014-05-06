@@ -5,7 +5,7 @@
     <plugin_priority>4</plugin_priority>
     <plugin_name>Menu</plugin_name>
     <plugin_description>Menu managment plugin</plugin_description>
-    <plugin_version>1.0.0</plugin_version>
+    <plugin_version>1.0.2</plugin_version>
     <plugin_author>Awilum</plugin_author>
     <plugin_author_uri>http://monstra.org/</plugin_author_uri>
 </root>

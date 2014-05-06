@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root><options><autoincrement>3</autoincrement></options><fields><name/><date/><message/><answer/><check/><important/></fields><reviews><id>2</id><uid>c4f4a73327</uid><important/><name>Kirya</name><date>1399318711</date><message>Kirya privet</message><answer/><check>1</check></reviews><reviews><id>3</id><uid>1b0cdabb77</uid><important/><name>Aleksandr</name><date>1399319146</date><message>Hello people</message><answer/><check>1</check></reviews></root>

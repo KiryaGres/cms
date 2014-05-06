@@ -2,17 +2,21 @@
 
     return array(
         'menu' => array(
-            'Menu' => 'Меню',
+            'Menu' => 'Меню',        
             'Menu manager' => 'Менеджер меню',
             'Edit' => 'Редактировать',
             'Name' => 'Название',
+            'Branch' => 'Ветка',
+            'Description' => 'Описание',
             'Delete' => 'Удалить',
             'Order' => 'Порядок',
             'Actions' => 'Действия',
-            'Create New Item' => 'Создать новый пункт меню',
+            'Create new item' => 'Создать новый пункт меню',
             'New item' => 'Новый пункт меню',
             'Item name' => 'Название',
+            'Item description' => 'Описание',
             'Item order' => 'Порядок',
+            'Item branch' => 'Ветка(подуровень)',
             'Item target' => 'Цель',
             'Item link' => 'Ссылка',
             'Item category' => 'Категория',

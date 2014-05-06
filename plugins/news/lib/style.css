@@ -1,0 +1,97 @@
+/**
+ * News list
+ */
+.news {
+
+}
+.news-fleft {
+    float:left;
+}
+.news-fright {
+    float:right;
+}
+a.news-back {
+    margin-bottom:20px;
+}
+a.news-more {
+    display:block;
+    float:right;
+    margin-bottom:10px;
+    padding:3px 10px;
+    background:rgba(160,160,160,.1);
+    border-radius:5px;
+    text-decoration:none;
+}
+a.news-more:hover {
+    background:rgba(200,200,200,.1);
+}
+.news-list{
+    overflow:hidden;
+}
+.news-item{
+    overflow:hidden;
+}
+.news-item h2{
+
+}
+.news-item .news-content{
+    
+}
+.news-item .news-status{
+    clear:both;
+    border-bottom:1px solid #eee;
+    padding:3px 5px;
+    margin:10px 0 17px 0;
+    border-radius:3px;
+    overflow:hidden;
+    line-height:16px;
+}
+.news-date {
+    display:inline-block;
+    font-size:11px;
+    padding:0 5px;
+    font-weight:normal;
+    color:#555;
+    background:#eee;
+    border-radius:3px;
+    line-height:inherit;
+}
+/**
+ * Paginator
+ */
+.news-paginator {
+    font-size:16px;
+    margin-top:20px;
+}
+.news-paginator strong {
+    font-weight: 700;
+}
+.news-paginator a {
+    text-decoration:underline;
+}
+.news-paginator a:hover{
+    text-decoration:underline;
+}
+.news-paginator .news-page{
+    margin-top:3px;
+    overflow:hidden;
+}
+.news-paginator .news-page span{
+    display:block;
+    float:left;
+    margin-right:5px;
+}
+.news-paginator .news-page a{
+    display:block;
+    float:left;
+    margin-right:2px;
+    border-radius:3px;
+    padding:3px 5px;
+}
+.news-paginator .news-page a:hover{
+    background:rgba(100,100,100,.1);
+}
+.news-paginator .news-page a.current{
+    text-decoration:none;
+    background:rgba(150,150,150,.2);
+}

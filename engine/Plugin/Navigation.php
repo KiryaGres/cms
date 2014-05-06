@@ -109,15 +109,6 @@ class Navigation
             }
         }
     }
-    // <div class="btn-group">PizdaNavigation
-    //     <a href="#" class="btn btn-inverse dropdown-toggle btn-small" data-toggle="dropdown">Редактировать 
-    //         <span class="caret"></span>
-    //     </a>
-    //     <ul class="dropdown-menu">
-    //         <li><a href="#" title="Clone">Дроп меню</a></li>
-    //     </ul>
-    // </div>
-
 
     /**
      * Draw items
